@@ -1,0 +1,6 @@
+.vscode
+/kube-router
+/gobgp
+_output
+_cache
+Dockerfile.amd64.run
